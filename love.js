@@ -22,5 +22,5 @@ let love = [
     "v": "iB7E1D_3Na4",
     "s": "Ladies and Gentlemen We Are Floating in Space – Spiritualized",
     "t": "romantic"
-  },
+  }
 ];
