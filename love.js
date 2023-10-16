@@ -12,12 +12,8 @@ self
 
 let love = [
   {
-    "c": `Told this girl that I love her, and she said she had the same feelings towards me. We held each other and kissed, life has never been so perfect.
-
-A few days later she said that we shouldn't date.
-
-This song is every emotion ever felt in that time-fram;, both pure ecstasy and pure heartbreak.`,
-    "v": "iB7E1D_3Na4",
+    "c": `ಈ ಹಾಡು ಕೇಳಿದ ಹಾಗೆಲ್ಲ ಅವಳ ನೆನಪು ಬರುತ್ತೆ, ಅವಳು ನನ್ನ ಜೊತೆ ಇಲ್ಲ. ಬಹುಶ್ಯ ಇದು ನಿಜ ಇರಬಹುದು ಜೊತೆಗಿರದ ಜೀವ ಎಂದಿಗೂ ಜೀವಂತ.`,
+    "v": "wicu1yvs7oA",
     "s": "Ladies and Gentlemen We Are Floating in Space – Spiritualized",
     "t": "heartbreak"
   },
